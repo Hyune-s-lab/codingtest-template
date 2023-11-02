@@ -11,4 +11,4 @@
 
 <img width="1490" alt="image" src="https://github.com/Hyune-s-lab/codingtest-template/assets/55722186/860f4db8-bac3-46ce-9fe1-210cf4fc37b9">
 
-<img width="1553" alt="image" src="https://github.com/Hyune-s-lab/codingtest-template/assets/55722186/cdb6c164-24e9-47fb-90a0-c2cbb7fa7175">
+<img width="1284" alt="image" src="https://github.com/Hyune-s-lab/codingtest-template/assets/55722186/5b5aa1fd-5352-4075-bf2d-c212a5e3907b">
