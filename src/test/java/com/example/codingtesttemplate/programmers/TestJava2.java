@@ -5,8 +5,10 @@ import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class TestJava2 {
+    // 사용법 2. 대상 solution 클래스를 선언 합니다.
     private final SolutionJava2 solution = new SolutionJava2();
 
+    // 사용법 3. `실행 결과` 탭에 있는 입력값, 기댓값, 실행 결과를 작성합니다.
     @Test
     void test1() {
         final int x = 2;

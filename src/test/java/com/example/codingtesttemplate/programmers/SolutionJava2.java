@@ -6,6 +6,7 @@ package com.example.codingtesttemplate.programmers;
  * https://school.programmers.co.kr/learn/courses/30/lessons/12954
  */
 public class SolutionJava2 {
+    // 사용법 1. 프로그래머스 문제의 solution 메서드를 복사합니다.
     public long[] solution(int x, int n) {
         long[] answer = new long[n];
 
